@@ -1,0 +1,11 @@
+C:\Users\Cristopher Solano\Desktop\.NetCore\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\Cristopher Solano\Desktop\.NetCore\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\Cristopher Solano\Desktop\.NetCore\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\Cristopher Solano\Desktop\.NetCore\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.deps.json
+C:\Users\Cristopher Solano\Desktop\.NetCore\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Users\Cristopher Solano\Desktop\.NetCore\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Core.dll
+C:\Users\Cristopher Solano\Desktop\.NetCore\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
+C:\Users\Cristopher Solano\Desktop\.NetCore\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CopyComplete
+C:\Users\Cristopher Solano\Desktop\.NetCore\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.pdb
+C:\Users\Cristopher Solano\Desktop\.NetCore\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Users\Cristopher Solano\Desktop\.NetCore\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb
